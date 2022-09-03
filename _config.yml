@@ -34,6 +34,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - github-pages
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
