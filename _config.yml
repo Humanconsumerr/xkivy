@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-minimal
+remote_theme: cotes2020/jekyll-theme-chirpy # Replace with the name of your remote theme
+theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
   - github-pages
