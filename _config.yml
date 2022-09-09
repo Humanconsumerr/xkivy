@@ -30,7 +30,6 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0 # Replace with the name of your remote theme
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
