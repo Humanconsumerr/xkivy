@@ -9,9 +9,7 @@ layout: default
 (im an arch user btw)
 </div>
 
-# Carousels
-
-  {% include carousel.html height="20" unit="%" duration="7" number="1" %}
+{% include carousel.html height="450" unit="px" duration="7" %}
 
 ## Header 2
 

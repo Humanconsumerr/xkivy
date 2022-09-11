@@ -1,11 +1,5 @@
-carousels:
-  - images: 
-    - image: /uploads/slider/image(1).jpg
-    - image: /uploads/slider/image(2).jpg
-    - image: /uploads/slider/image(3).jpg
-    - image: /uploads/slider/image(4).jpg
-  - images: 
-    - image: /uploads/slider/image(5).jpg
-    - image: /uploads/slider/image(6).jpg
-    - image: /uploads/slider/image(7).jpg
-    - image: /uploads/slider/image(8).jpg
+- images: 
+    - image: /assets/carousel/image(1).jpg
+    - image: /assets/carousel/image(2).jpg
+    - image: /assets/carousel/image(3).jpg
+    - image: /assets/carousel/image(4).jpg
