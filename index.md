@@ -10,4 +10,3 @@ layout: default
 </div>
 
 {% include carousel.html height="250" unit="px" duration="4" %}
-## Heading 2
