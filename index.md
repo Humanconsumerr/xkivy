@@ -17,5 +17,3 @@ layout: default
 </p>
 
 --------------
-
-<h1 align=left> contents </h2>
