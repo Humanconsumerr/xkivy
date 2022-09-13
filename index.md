@@ -15,13 +15,11 @@ layout: default
     <img src="https://lastfm-recently-played.vercel.app/api?user=xkiv" />
   </a>
 </p>
+---------------------------------
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul
+#### list
 
---------------
+<li>
+<a href="posts/2022-09-02-testpost.html">april</a>
+<>
+</li>

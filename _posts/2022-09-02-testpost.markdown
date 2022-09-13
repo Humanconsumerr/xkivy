@@ -1,7 +1,7 @@
 ---
-layout: defaults
-title:  "Welcome to Jekyll!"
+layout: default
+title:  "april"
 date:   2022-09-02 06:24:14 -0700
 categories: jekyll update
-post_url: /testpost
+post_url: /_posts/2022-09-02-testpost.markdown
 ---

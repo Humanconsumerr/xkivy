@@ -1,7 +1,0 @@
----
-layout: defaults
-title:  "Welcome to Jekyll!"
-date:   2022-09-02 06:24:14 -0700
-categories: jekyll update
-post_url: /testpost
----
