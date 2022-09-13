@@ -38,7 +38,8 @@ plugins:
   - github-pages
   - jekyll-include-cache
   - jekyll-remote-theme
-
+  - jekyll-spaceship
+  
 color-scheme: auto-default-dark
 # Exclude from processing.
 # The following items will not be processed, by default.
