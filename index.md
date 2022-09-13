@@ -6,7 +6,6 @@ layout: default
 <div align="center">
 
 {% include_relative README.md %}
-(im an arch user btw)
 </div>
 
-![](http://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xkiv)
