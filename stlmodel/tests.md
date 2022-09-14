@@ -4,6 +4,7 @@ title:  "model"
 categories: stl
 ---
 # Azure Percept Stand
+
 This model (when printed twice) is used to stand up your Azure Percept. It fits the 8020 aluminum extrusion.
 
 More about the design [here][1]
