@@ -25,21 +25,20 @@ layout: default
 
 ### Tops of each month
 
-<div>
-
-* <a href="posts/2022-09-02-testpost.html">september</a>
-* <a href="posts/2022-04-02.html">april</a>
-* <a href="posts/2022-03-02.html">march</a>
-* <a href="posts/2022-02-02.html">february</a>
-* <a href="posts/2022-01-02.html">january</a>
-* <a href="posts/2022-12-02.html">december</a>
-* <a href="posts/2022-11-02.html">november</a>
-* <a href="posts/2022-10-02.md">october</a>
-
-</div>
+* [january](/posts/2022-01-02-january.md)
+* [feburary](/posts/2022-02-02-febuary.md)
+* [march](/posts/2022-03-02-march.md)
+* [april](/posts/2022-04-02-april.md)
+* [may](/posts/2022-05-02-may.md)
+* [june](/posts/2022-06-02-june.md)
+* [july](/posts/2022-07-02-july.md)
+* [august](/posts/2022-08-02-august.md)
+* [september](/posts/2022-09-02-september.md)
+* [october](/posts/2022-10-02-october.md)
+* [november](/posts/2022-11-02-november.md)
+* [december](/posts/2022-12-02-december.md)
 
 ---------------------------------
 
-* <a href="post.html">stl models</a>
-
-[a relative link](/posts/2022-04-02-april.md)
+| foo | bar |
+| --- | --- |
