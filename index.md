@@ -33,7 +33,7 @@ layout: default
 
 ---------------------------------
 
-* <a href="post.html">stl</a>
+* <a href="post.html">stl models</a>
 
 
 <script src="https://embed.github.com/view/3d/Humanconsumerr/xkivy.github.io/main/xiaoluoboding-2021.stl"></script>
