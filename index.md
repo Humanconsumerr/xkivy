@@ -22,14 +22,13 @@ layout: default
 
 #### list of posts
 * <a href="posts/2022-09-02-testpost.html">september</a>
-    <details close>
-      <summary>testpost</summary>
-        <p>testpost</p>
-    </details>
 * <a href="posts/2022-04-02.html">april</a>
 * <a href="posts/2022-03-02.html">march</a>
 * <a href="posts/2022-02-02.html">february</a>
 * <a href="posts/2022-01-02.html">january</a>
-* <a href="posts/2021-12-02.html">december</a>
-* <a href="posts/2021-11-02.html">november</a>
-* <a href="posts/2021-10-02.html">october</a>
+* <a href="posts/2022-12-02.html">december</a>
+* <a href="posts/2022-11-02.html">november</a>
+* <a href="posts/2022-10-02.md">october</a>
+
+
+{$ include test.stl %}
