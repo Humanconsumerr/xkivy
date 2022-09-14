@@ -20,7 +20,12 @@ layout: default
 </div>
 
 ---------------------------------
-#### list of posts
+
+# List of posts
+
+### Tops of each month
+
+<div>
 
 * <a href="posts/2022-09-02-testpost.html">september</a>
 * <a href="posts/2022-04-02.html">april</a>
@@ -31,9 +36,10 @@ layout: default
 * <a href="posts/2022-11-02.html">november</a>
 * <a href="posts/2022-10-02.md">october</a>
 
+</div>
+
 ---------------------------------
 
 * <a href="post.html">stl models</a>
 
-
-<script src="https://embed.github.com/view/3d/Humanconsumerr/xkivy.github.io/main/xiaoluoboding-2021.stl"></script>
+[a relative link](/posts/2022-04-02-april.md)
