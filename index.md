@@ -33,8 +33,7 @@ layout: default
 
 ---------------------------------
 
-<script src="https://embed.github.com/view/3d/Humanconsumerr/xkivy.github.io/master/github.stl"></script>
+* <a href="post.html">stl</a>
 
-<script src="https://embed.github.com/view/3d/Humanconsumerr/xkivy.github.io/main/tests.stl"></script>
 
-<iframe height='220' width='420' frameborder='0' src='https://viewscreen.githubusercontent.com/view/solid?url=https%3a%2f%2fraw.githubusercontent.com%2fHumanconsumerr%2fxkivy.github.io%2fmain%2ftests.stl' title='tests.stl'></iframe>
+<script src="https://embed.github.com/view/3d/Humanconsumerr/xkivy.github.io/main/xiaoluoboding-2021.stl"></script>
