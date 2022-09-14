@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "model"
+categories: stl
+---
+# Azure Percept Stand
+This model (when printed twice) is used to stand up your Azure Percept. It fits the 8020 aluminum extrusion.
+
+More about the design [here][1]
+
 ```stl
 solid Mesh
   facet normal -0.000000 1.000000 0.000000
@@ -4426,3 +4436,17 @@ solid Mesh
   endfacet
 endsolid Mesh
 ```
+
+## Printing instructions
+This print looks amazing on a smooth glass bed, with the right PLA it gets a mirror-like finish. It's also a good print to do multi-colour if you want the logo to really stand out.
+
+- Infill: 20%
+- Resolution: 0.2
+- Supports: no
+
+## Example print
+![An Azure Percept Mounted On The Stand](/models/azure-percept-stand/images/azure-percept.jpg)
+
+![A close up of the multi-colour transition](/models/azure-percept-stand/images/transition.jpg)
+
+[1]: https://www.vanderveer.io/azure-feet-for-azure-percept/

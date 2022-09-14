@@ -5,6 +5,7 @@ layout: default
 <div align="center">
 
 {% include_relative README.md %}
+
 </div>
 
 --------------
@@ -19,8 +20,8 @@ layout: default
 </div>
 
 ---------------------------------
-
 #### list of posts
+
 * <a href="posts/2022-09-02-testpost.html">september</a>
 * <a href="posts/2022-04-02.html">april</a>
 * <a href="posts/2022-03-02.html">march</a>
@@ -30,5 +31,9 @@ layout: default
 * <a href="posts/2022-11-02.html">november</a>
 * <a href="posts/2022-10-02.md">october</a>
 
+---------------------------------
 
-{$ include test.stl %}
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+
+<script src="test.stl"></script>
+
