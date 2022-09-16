@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 <div align="center">
 
 {% include_relative README.md %}
@@ -33,3 +34,8 @@ layout: default
 | ^^ [Stl models](/posts/other%20pages/stl.md)        | <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3oEhmM10mIi1dkMfmg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cd-dvd-optical-3oEhmM10mIi1dkMfmg"></a></p> |
 | ^^ [minecraft servers](/posts/other%20pages/minecraft.md)          || ^^ |
 | ^^ [spotify playlists](/posts/other%20pages/spotify.md)            || ^^ |
+
+
+---------------------------------
+
+<h3 align=center> <a href="model.html">3d models</a> </h3>
