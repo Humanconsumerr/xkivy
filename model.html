@@ -1,19 +1,14 @@
-<!DOCTYPE html>
+---
+layout: 3dl
+---
+<style>
+model-viewer {
+  width: 600px;
+  height: 400px;
+}
+</style>
 
-<style type="text/css" media="screen">
-    .container {
-      margin: 10px auto;
-      max-width: 600px;
-      text-align: center;
-    }
-    h1 {
-      margin: 30px 0;
-      font-size: 4em;
-      line-height: 1;
-      letter-spacing: -1px;
-    }
-  </style>
-  
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -27,17 +22,16 @@
       
   </head>
   <body>
-      <model-viewer camera-orbit="-20deg 75deg 2m" auto-rotate camera-controls src="third_party/Astronaut/models/Astronaut.glb"
-                alt="A 3D model of an astronaut">
+      <model-viewer auto-rotate camera-controls src="third_party/Astronaut/models/DALFRED_60155602.glb"
+                alt="DALFRED_60155602">
       </model-viewer>
 
-      <model-viewer auto-rotate camera-controls src="third_party/Astronaut/models/cube.gltf"
+      <model-viewer auto-rotate camera-controls src="third_party\Astronaut\models\LACK_30449908_55x55.glb"
                 alt="A 3D model of a cube">
       </model-viewer>
-      <model-viewer auto-rotate camera-controls src="third_party/Astronaut/models/Triangle.gltf"
-                alt="A 3D model of a trianngle">
+      <model-viewer auto-rotate camera-controls src="third_party/Astronaut/models/BEKVÄM_30178884.glb"
+                alt="A 3D model of a cube">
       </model-viewer>
-      
   </body>
 
 <script type="module"
@@ -46,3 +40,4 @@ src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
 <script nomodule
 src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
 </script>
+

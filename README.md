@@ -11,9 +11,3 @@ a webpage of things and stuff
     alt="Manjaro">
 </a>
 </div>
-
-## todo 
-
-    * resort posts and files
-    * add more 3d models and add responsive element
-    * ditch stl files?
