@@ -9,11 +9,6 @@ layout: default
 <br>
 </div>
 
---------------
-
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/figma?ref_src=twsrc%5Etfw">@figma</a> we wish you could stay but you left so soon, without a word it&#39;s painful 😭, but there is nothing we can do Bye. <br>we welcome <a href="https://twitter.com/penpotapp?ref_src=twsrc%5Etfw">@penpotapp</a> to our world, hope you won&#39;t end up like figma after we have a good relationship with you.<a href="https://twitter.com/hashtag/figma?src=hash&amp;ref_src=twsrc%5Etfw">#figma</a> <a href="https://twitter.com/hashtag/figmaadobe?src=hash&amp;ref_src=twsrc%5Etfw">#figmaadobe</a> <a href="https://twitter.com/hashtag/penpot?src=hash&amp;ref_src=twsrc%5Etfw">#penpot</a> <a href="https://twitter.com/hashtag/designers?src=hash&amp;ref_src=twsrc%5Etfw">#designers</a> <a href="https://twitter.com/hashtag/uiux?src=hash&amp;ref_src=twsrc%5Etfw">#uiux</a> <a href="https://t.co/DTXGJNqI79">pic.twitter.com/DTXGJNqI79</a></p>&mdash; Adebayo Imoleayo (@AI_len20) <a href="https://twitter.com/AI_len20/status/1570920293035823106?ref_src=twsrc%5Etfw">September 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 ----------------------
 
 
@@ -40,4 +35,8 @@ layout: default
 
 ---------------------------------
 
-<h3 align=center> <a href="model.html">page of ikea furniture</a> </h3>
+<h3 align=center> <a href="test/model.html">page of ikea furniture</a> </h3>
+
+[testpost](_posts/2022-09-02-testpost.markdown)
+
+[stl](_test/post.md)

@@ -1,5 +1,5 @@
 ---
-layout: stl3
+layout: 3w
 title:  "ast"
 date:   2022-09-02 06:24:14 -0700
 ---
